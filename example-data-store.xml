@@ -1,0 +1,15 @@
+<DATA>
+  <TALLY_REQUEST>
+    <HEADER>
+      <ELEMENT ATTRIBUTE="DATA>Authorization: Digest username" VALUE="{VECTAR-USERNAME}"/>
+      <ELEMENT ATTRIBUTE="realm" VALUE=""/>
+      <ELEMENT ATTRIBUTE="nonce" VALUE="{NONCE-VALUE}"/>
+      <ELEMENT ATTRIBUTE="uri" VALUE="/v1/dictionary?key=tally"/>
+      <ELEMENT ATTRIBUTE="cnonce" VALUE="{CNONCE-VALUE}"/>
+      <ELEMENT ATTRIBUTE="nc" VALUE="00000001"/>
+      <ELEMENT ATTRIBUTE="response" VALUE="{RESPONSE-VALUE}"/>
+      <ELEMENT ATTRIBUTE="qop" VALUE="auth"/>
+      <ELEMENT ATTRIBUTE="" VALUE=""/>
+    </HEADER>
+  </TALLY_REQUEST>
+</DATA>
