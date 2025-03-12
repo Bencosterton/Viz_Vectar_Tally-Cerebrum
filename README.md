@@ -142,7 +142,7 @@ It will return the following;
 
 
 In Cerebrum, you will need to use the following setup;<br>
-Device: raw http request client<br>
+Device: Raw HTTP client<br>
 IP: {VECTAR-IP}<br>
 Port: 80<br>
 
