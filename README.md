@@ -1,4 +1,4 @@
-## This is how you get tallt info from Viz Vectar using EVS Cerebrum;
+## This is how you get tally info from Viz Vectar using EVS Cerebrum;
 
 ### Step 1 - Curl
 
